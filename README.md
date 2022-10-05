@@ -14,7 +14,7 @@ You can refer to the following articles on the basics of Git and Github.
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 
-## Thanks to all Contributors 💪 
+## Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping all-round-calculator grow. Thanks a lot! Keep rocking 🍻
 
